@@ -10,7 +10,9 @@ Envianos tu propuesta completando este [formulario](https://bit.ly/speakernetbai
 Si tenés alguna pregunta con respecto a tu charla o al evento, podés contactar a cualquiera de los organizadores:
 
 [Germán Kuber](https://www.linkedin.com/in/germankuber)
+
 [Sebastián Pérez](https://www.linkedin.com/in/sebaleoperez)
+
 [Pablo Di Loreto](https://www.linkedin.com/in/pablodiloreto/)
 
 # Después del evento
